@@ -4,6 +4,5 @@ model: FAN-40EA-F
 part_number: 02355421
 comments: "Fan box (port side exhaust)\n\nDatasheet: [Link] (https://support.huawei.com/enterprise/en/doc/EDOC1000019246/188d83a0/fan-40ea-series-fan-modules)"
 airflow: front-to-rear
-profile: fan
-weight: 0.325
+weight: 0.32
 weight_unit: kg
