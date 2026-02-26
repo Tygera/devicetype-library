@@ -1,0 +1,9 @@
+---
+manufacturer: Huawei
+model: FAN-40EA-B
+part_number: 02355338
+comments: "Fan box (port side intake)\n\nDatasheet: [Link] (https://support.huawei.com/enterprise/en/doc/EDOC1000019246/188d83a0/fan-40ea-series-fan-modules)"
+airflow: rear-to-front
+profile: fan
+weight: 0.325
+weight_unit: kg
